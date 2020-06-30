@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "польский Алгоритм", "польский Алгоритм\польский Алгоритм.csproj", "{C7137C59-B07B-4C76-A1E8-6AB99A421D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Польский Алгоритм про", "Польский Алгоритм про\Польский Алгоритм про.csproj", "{A5C95224-187F-4893-8FBB-81DF5621827A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7137C59-B07B-4C76-A1E8-6AB99A421D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7137C59-B07B-4C76-A1E8-6AB99A421D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7137C59-B07B-4C76-A1E8-6AB99A421D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7137C59-B07B-4C76-A1E8-6AB99A421D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C95224-187F-4893-8FBB-81DF5621827A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C95224-187F-4893-8FBB-81DF5621827A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C95224-187F-4893-8FBB-81DF5621827A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C95224-187F-4893-8FBB-81DF5621827A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {581E7D2C-3313-44D8-8BC2-703DDECA7037}
+	EndGlobalSection
+EndGlobal

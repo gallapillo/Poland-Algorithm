@@ -1,0 +1,10 @@
+C:\Users\Вадим\source\repos\C# projects\пр\польский Алгоритм\польский Алгоритм\bin\Debug\польский Алгоритм.exe.config
+C:\Users\Вадим\source\repos\C# projects\пр\польский Алгоритм\польский Алгоритм\bin\Debug\польский Алгоритм.exe
+C:\Users\Вадим\source\repos\C# projects\пр\польский Алгоритм\польский Алгоритм\bin\Debug\польский Алгоритм.pdb
+C:\Users\Вадим\source\repos\C# projects\пр\польский Алгоритм\польский Алгоритм\obj\Debug\польский Алгоритм.csprojAssemblyReference.cache
+C:\Users\Вадим\source\repos\C# projects\пр\польский Алгоритм\польский Алгоритм\obj\Debug\польский_Алгоритм.Form1.resources
+C:\Users\Вадим\source\repos\C# projects\пр\польский Алгоритм\польский Алгоритм\obj\Debug\польский_Алгоритм.Properties.Resources.resources
+C:\Users\Вадим\source\repos\C# projects\пр\польский Алгоритм\польский Алгоритм\obj\Debug\польский Алгоритм.csproj.GenerateResource.cache
+C:\Users\Вадим\source\repos\C# projects\пр\польский Алгоритм\польский Алгоритм\obj\Debug\польский Алгоритм.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\C# projects\пр\польский Алгоритм\польский Алгоритм\obj\Debug\польский Алгоритм.exe
+C:\Users\Вадим\source\repos\C# projects\пр\польский Алгоритм\польский Алгоритм\obj\Debug\польский Алгоритм.pdb
